@@ -1,5 +1,7 @@
 {
   "name": "Copy of Golden Christmas Geometry",
   "description": "A high-performance, interactive 3D Christmas tree experience using Three.js InstancedMesh, PBR materials, and generative geometry animations.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "camera"
+  ]
 }
